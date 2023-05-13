@@ -97,4 +97,4 @@ Matlab scripts
 This tool is for educational purposes only. Use it at your own risk. The author of this tool is not responsible for any damage caused by the use or misuse of this tool.
 
 ## Contributing
-If you would like to contribute to the WordPress scanner, please submit a pull request on the GitHub repository. Thank you for your contributions!
+If you would like to contribute to the ChatGPT on BurpSuite, please submit a pull request on the GitHub repository. Thank you for your contributions!
